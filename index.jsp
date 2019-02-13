@@ -18,7 +18,6 @@
 I am a honey badger.
 As everyone knows, the honey badger doesn't give a d*mn and lives as he pleases.
 The first part is true for me, the second part isn't.
-Don't get any strange ideas :)
 
 
 	<!-- "header.jsp" -> 모든 페이지에서 공통적으로 사용해야하기에 외부파일로 분리 -->
