@@ -2,6 +2,7 @@
 <!-- JSTL core 라이브러리 도입 -->
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -13,6 +14,13 @@
 	<script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
 </head>
 <body>
+
+I am a honey badger.
+As everyone knows, the honey badger doesn't give a d*mn and lives as he pleases.
+The first part is true for me, the second part isn't.
+Don't get any strange ideas :)
+
+
 	<!-- "header.jsp" -> 모든 페이지에서 공통적으로 사용해야하기에 외부파일로 분리 -->
 	<jsp:include page="header.jsp" flush="false"></jsp:include>
 	
