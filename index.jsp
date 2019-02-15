@@ -6,7 +6,7 @@
 <html>
 <head>
 	<meta charset="UTF-8">
-	<title>Starkhaven</title>
+	<title>Jong</title>
 	<!-- CSS 설정을 외부 파일로 분리 -->
 	<link rel="stylesheet" href="/resources/css/OpenProject.css">
 	<!-- jQuery를 사용하기 위한 라이브러리 도입 -->
