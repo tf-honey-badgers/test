@@ -7,7 +7,7 @@
 <head>
 	<meta charset="UTF-8">
 
-	<title>Osori</title>
+	<title>원준이와 아이들</title>
 
 
 
